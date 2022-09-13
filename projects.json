@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Minesweeper",
+      "live": "https://javenegas1.github.io/Minesweeper/",
+      "git": "https://github.com/javenegas1/Minesweeper",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Bravado",
+      "live": "https://bravado-project.herokuapp.com/bravado/",
+      "git": "https://github.com/javenegas1/Bravado",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
